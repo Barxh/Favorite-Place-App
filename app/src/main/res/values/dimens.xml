@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="main_content_padding">5dp</dimen>
+    <dimen name="edit_text_text_size">16dp</dimen>
+    <dimen name="add_screen_til_marginTop">10dp</dimen>
+</resources>
